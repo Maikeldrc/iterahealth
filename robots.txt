@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://university.itera.health/sitemap_index.xml
